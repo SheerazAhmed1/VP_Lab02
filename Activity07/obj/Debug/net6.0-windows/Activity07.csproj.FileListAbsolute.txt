@@ -1,0 +1,17 @@
+E:\Computer Science\Extra Semster\VP\Lab\Lab2\Activity07\bin\Debug\net6.0-windows\Activity07.exe
+E:\Computer Science\Extra Semster\VP\Lab\Lab2\Activity07\bin\Debug\net6.0-windows\Activity07.deps.json
+E:\Computer Science\Extra Semster\VP\Lab\Lab2\Activity07\bin\Debug\net6.0-windows\Activity07.runtimeconfig.json
+E:\Computer Science\Extra Semster\VP\Lab\Lab2\Activity07\bin\Debug\net6.0-windows\Activity07.dll
+E:\Computer Science\Extra Semster\VP\Lab\Lab2\Activity07\bin\Debug\net6.0-windows\Activity07.pdb
+E:\Computer Science\Extra Semster\VP\Lab\Lab2\Activity07\obj\Debug\net6.0-windows\Activity07.csproj.AssemblyReference.cache
+E:\Computer Science\Extra Semster\VP\Lab\Lab2\Activity07\obj\Debug\net6.0-windows\Activity07.Form1.resources
+E:\Computer Science\Extra Semster\VP\Lab\Lab2\Activity07\obj\Debug\net6.0-windows\Activity07.csproj.GenerateResource.cache
+E:\Computer Science\Extra Semster\VP\Lab\Lab2\Activity07\obj\Debug\net6.0-windows\Activity07.GeneratedMSBuildEditorConfig.editorconfig
+E:\Computer Science\Extra Semster\VP\Lab\Lab2\Activity07\obj\Debug\net6.0-windows\Activity07.AssemblyInfoInputs.cache
+E:\Computer Science\Extra Semster\VP\Lab\Lab2\Activity07\obj\Debug\net6.0-windows\Activity07.AssemblyInfo.cs
+E:\Computer Science\Extra Semster\VP\Lab\Lab2\Activity07\obj\Debug\net6.0-windows\Activity07.csproj.CoreCompileInputs.cache
+E:\Computer Science\Extra Semster\VP\Lab\Lab2\Activity07\obj\Debug\net6.0-windows\Activity07.dll
+E:\Computer Science\Extra Semster\VP\Lab\Lab2\Activity07\obj\Debug\net6.0-windows\refint\Activity07.dll
+E:\Computer Science\Extra Semster\VP\Lab\Lab2\Activity07\obj\Debug\net6.0-windows\Activity07.pdb
+E:\Computer Science\Extra Semster\VP\Lab\Lab2\Activity07\obj\Debug\net6.0-windows\Activity07.genruntimeconfig.cache
+E:\Computer Science\Extra Semster\VP\Lab\Lab2\Activity07\obj\Debug\net6.0-windows\ref\Activity07.dll
